@@ -4,8 +4,9 @@ Python加壳
 ---
 反正我也懒得写了
 ===
-PytPack.py   ->主文件/<br>
-ccc.py       ->测试用文件（可以单独运行）/<br>
+PytPack.py   ->主文件<br>
+ccc.py       ->测试用文件（可以单独运行）<br>
+
 禁止套娃
 ===
 
